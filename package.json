@@ -1,0 +1,42 @@
+{
+    "name": "white-peach-theme",
+    "displayName": "White Peach Theme",
+    "description": "Light theme with pink and green peachy colors.",
+    "version": "0.0.1",
+    "publisher": "MagdalenaLipka",
+    "license": "MIT",
+    "keywords": [
+        "theme",
+        "light",
+        "clean",
+        "pink"
+    ],
+    "icon": "static/peach.png",
+    "homepage": "https://github.com/magdalenalipka/white-peach-theme",
+    "repository": {
+        "url": "https://github.com/magdalenalipka/white-peach-theme",
+        "type": "git"
+    },
+    "bugs": {
+        "url": "https://github.com/magdalenalipka/white-peach-theme"
+    },
+    "galleryBanner": {
+        "color": "#f9f9f9",
+        "theme": "light"
+    },
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "White Peach Theme",
+                "uiTheme": "vs",
+                "path": "./themes/White Peach Theme-color-theme.json"
+            }
+        ]
+    }
+}
