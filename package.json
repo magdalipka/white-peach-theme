@@ -33,14 +33,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "White Peach Theme",
-        "uiTheme": "vs",
-        "path": "./themes/White Peach Theme-color-theme.json"
-      },
-      {
         "label": "White Peach Extended Theme",
         "uiTheme": "vs",
         "path": "./themes/White Peach Extended Theme-color-theme.json"
+      },
+      {
+        "label": "White Peach Theme",
+        "uiTheme": "vs",
+        "path": "./themes/White Peach Theme-color-theme.json"
       }
     ]
   }
