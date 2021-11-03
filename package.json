@@ -38,9 +38,9 @@
         "path": "./themes/White Peach Theme-color-theme.json"
       },
       {
-        "label": "White Peach Minimal Theme",
+        "label": "White Peach Extended Theme",
         "uiTheme": "vs",
-        "path": "./themes/White Peach Minimal Theme-color-theme.json"
+        "path": "./themes/White Peach Extended Theme-color-theme.json"
       }
     ]
   }

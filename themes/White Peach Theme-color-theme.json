@@ -43,6 +43,8 @@
 
     "statusBar.background": "#FD7C84",
     "statusBarItem.remoteBackground": "#FD7C84",
+    "statusBar.noFolderBackground": "#FD7C84",
+    "statusBar.debuggingBackground": "#FD7C84",
 
     "tree.indentGuidesStroke": "#00250011",
     "tree.tableColumnsBorder": "#00250011",
