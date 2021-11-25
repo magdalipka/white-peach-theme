@@ -233,6 +233,9 @@
     "scrollbar.shadow": "#00000000",
     "welcomePage.tileShadow.": "#00000000"
   },
+
+  "semanticHighlighting": true,
+
   "tokenColors": [
     {
       "name": "Italics - Comments, Storage, Keyword Flow, Vue attributes, Decorators",
@@ -518,7 +521,7 @@
         "variable.parameter.handlebars"
       ],
       "settings": {
-        "foreground": "#ea3c42"
+        "foreground": "#6672a3"
       }
     },
     {
@@ -597,7 +600,9 @@
         "entity.name.method.js",
         "variable.function.constructor",
         "keyword.other.special-method",
-        "storage.type.cs"
+        "storage.type.cs",
+        "entity.name.function.member",
+        "support.function"
       ],
       "settings": {
         "foreground": "#6672a3"
@@ -689,13 +694,13 @@
         "foreground": "#ea3c42"
       }
     },
-    {
-      "name": "Support Function",
-      "scope": "support.function",
-      "settings": {
-        "foreground": "#025b0e"
-      }
-    },
+    // {
+    //   "name": "Support Function",
+    //   "scope": "support.function",
+    //   "settings": {
+    //     "foreground": "#025b0e"
+    //   }
+    // },
     {
       "name": "CSS Class and Support",
       "scope": [
