@@ -125,7 +125,7 @@
     "gitDecoration.stageModifiedResourceForeground": "#6672a3",
     "gitDecoration.untrackedResourceForeground": "#a6a6a6",
 
-    "diffEditor.insertedTextBackground": "#EDF1D9",
+    "diffEditor.insertedTextBackground": "#9db80222",
     "diffEditor.removedTextBackground": "#fd7c8422",
 
     // "merge.commonContentBackground": "#f3f3f3",
