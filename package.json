@@ -33,14 +33,24 @@
   "contributes": {
     "themes": [
       {
+        "label": "White Peach Theme",
+        "uiTheme": "vs",
+        "path": "./themes/White Peach Theme-color-theme.json"
+      },
+      {
         "label": "White Peach Extended Theme",
         "uiTheme": "vs",
         "path": "./themes/White Peach Extended Theme-color-theme.json"
       },
       {
-        "label": "White Peach Theme",
+        "label": "White Peach Framed Theme",
         "uiTheme": "vs",
-        "path": "./themes/White Peach Theme-color-theme.json"
+        "path": "./themes/White Peach Framed Theme-color-theme.json"
+      },
+      {
+        "label": "White Peach Extended Framed Theme",
+        "uiTheme": "vs",
+        "path": "./themes/White Peach Extended Framed Theme-color-theme.json"
       }
     ]
   }

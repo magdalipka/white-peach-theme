@@ -32,14 +32,14 @@
     "editorBracketMatch.background": "#FD7C8433",
     "editorBracketMatch.border": "#00000000",
 
-    "activityBar.background": "#f9f9f9",
+    "activityBar.background": "#f3f3f3",
     "activityBar.foreground": "#FD7C84",
     "activityBar.activeBorder": "#00000000",
     "activityBarBadge.background": "#9db802",
     "activityBarBadge.foreground": "#ffffff",
 
-    "sideBar.background": "#f9f9f9",
-    "sideBarSectionHeader.background": "#f9f9f9",
+    "sideBar.background": "#f3f3f3",
+    "sideBarSectionHeader.background": "#f3f3f3",
 
     "statusBar.background": "#FD7C84",
     "statusBarItem.remoteBackground": "#FD7C84",
@@ -102,7 +102,7 @@
     "badge.background": "#9db802",
     "badge.foreground": "#ffffff",
 
-    "minimap.background": "#f9f9f9",
+    "minimap.background": "#f3f3f3",
     "minimap.errorHighlight": "#ea3c42",
     "minimap.warningHighlight": "#fbc02d",
     "minimap.findMatchHighlight": "#c2c7da",
@@ -149,13 +149,15 @@
     "peekViewTitleDescription.foreground": "#ffffff",
     "peekViewResult.matchHighlightBackground": "#c2c7da",
 
-    "titleBar.activeBackground": "#f9f9f9",
-    "titleBar.inactiveBackground": "#f9f9f9",
+    "titleBar.activeBackground": "#f3f3f3",
+    "titleBar.inactiveBackground": "#f3f3f3",
 
     "keybindingLabel.background": "#9db802",
     "keybindingLabel.foreground": "#ffffff",
 
-    "terminal.background": "#f9f9f9",
+    "panel.background": "#f3f3f3",    
+
+    "terminal.background": "#f3f3f3",
     "terminal.foreground": "#002500",
     "terminal.ansiBlack": "#002500",
     "terminal.ansiBlue": "#6672a3",
@@ -177,6 +179,7 @@
     "terminalCursor.background": "#025b0e",
 
     "breadcrumb.foreground": "#6672a3",
+    "breadcrumb.background": "#f6f6f6",
 
     "symbolIcon.arrayForeground": "#fd7c84",
     "symbolIcon.booleanForeground": "#fd7c84",
